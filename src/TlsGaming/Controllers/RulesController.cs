@@ -7,6 +7,7 @@ namespace TlsGaming.Controllers
     {
         public RulesController()
         {
+
         }
 
         [HttpGet]
